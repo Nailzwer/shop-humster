@@ -1,0 +1,55 @@
+.humster {
+    border-radius: 1%;
+    box-shadow: 4px 8px 20px 0 rgba(34, 60, 80, 0.2);
+    text-align: center;
+    margin:5px;
+}
+.humster img {
+    width:70%;
+    border-radius: 5px;
+    margin: 5px;
+    margin-top:10px;
+}
+.humster-info {
+    width: 90%;
+    margin: auto;
+}
+.humster-name {
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+.humster-year {
+    font-size: 18px;
+}
+.humster-age {
+    font-size: 18px;
+}
+.row {
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.button {
+    background-color: #2a2c7a; /* Green */
+    border: none;
+    color: white;
+    padding: 5% 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#addhumster {
+    width: 100%;
+    margin-top:5px;
+    margin-bottom:20px;
+}
+.button:hover{
+    background-color:#4d6cad;
+}
+.button:active {
+    background-color:#4d6cad;
+}
